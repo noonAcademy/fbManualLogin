@@ -1,4 +1,4 @@
-## fbManualLogin
+## facebookManualLogin
 Manual Login Facebook implementation using FB npm module
 
 NPM module - https://www.npmjs.com/package/fb <br />
